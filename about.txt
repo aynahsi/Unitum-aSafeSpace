@@ -1,0 +1,24 @@
+CREATORS-ISHANYA AND ANANYA.
+
+INTRODUCTION
+We have made a website for people to interact freely with others and meet like-minded people. Our site focuses on helping people build a community where they can anonymously share their problems, have group discussions, take help from FAQ’s answered by experts, support group events, view announcements and resource page.
+Our website’s structure has been formed using HTML, in a way such that the users will find it easy to operate. All the pages were designed using PHP and CSS, and the data was stored in SQL.
+
+HOME:
+Home has navbar which is connecting the page to other pages like Vision, Team, Support, Registration, Login.
+LOGIN:
+Registered members can login and finally go to the blog page. Login checks the input value with data stored in the database that was added during the registration.
+REGISTER:
+In this user registers. User can only access the blog after registering or logging in. We have included form validation to input username and password with conditions.
+BLOG PAGE(BlogDisplay.HTML):
+Adding Blog: Registered user can enter the blog (title, name, story). No column can be left empty.
+Displaying Blog: All the blogs stored in database will be displayed here.
+Display using searched name: User can search the desired blog by entering the name of the author.
+
+VISION:
+It tells the viewer the purpose of the page and the creator’s vision.
+TEAM:
+It shows the information about team members.
+SUPPORT:
+It shows the user various helplines that can help them to connect with experts.
+
