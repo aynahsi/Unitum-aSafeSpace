@@ -13,7 +13,7 @@ We do so by focusing on professional development and networking, as well as prom
 
 # Team members
 
-- [Ananya Garg](hhttps://github.com/ananya-codes)
+- [Ananya Garg](https://github.com/ananya-codes)
 - [Ishanya Yadav](https://github.com/aynahsi)
 
 # Screenshots
