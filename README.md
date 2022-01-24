@@ -18,3 +18,4 @@ We do so by focusing on professional development and networking, as well as prom
 
 # Screenshots
 
+![](https://github.com/aynahsi/Unitum-aSafeSpace/blob/master/readme-img/screen-capture%20(1).gif)
