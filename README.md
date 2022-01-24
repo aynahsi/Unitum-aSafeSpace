@@ -1,8 +1,7 @@
 # Unitum-aSafeSpace
 
 # Aim
-This is a blog website where communities can come together and feel free to share their story and be inspired by others. Our purpose is to create a diverse and inclusive world in which women have access to the resources they need to grow their businesses and make a long-term impact in their communities.
-We do so by focusing on professional development and networking, as well as promoting mental health and wellness, creativity, and social gatherings.
+Unitum is a website designed to provide a safe place for men, women and non-binary people to share their grievances and struggle stories without having to think about being judged. A place where they can vent freely and if they choose so, then can also discuss the possible solution with the community. It will be a community promoting social, personal and professional growth. We will also provide links to some verified resources for further help.
 
 # Tech-Stack
 
@@ -15,6 +14,21 @@ We do so by focusing on professional development and networking, as well as prom
 
 - [Ananya Garg](https://github.com/ananya-codes)
 - [Ishanya Yadav](https://github.com/aynahsi)
+
+# How websites work
+HOME:
+Home has navbar which is connecting the page to other pages like Vision, Team, Support,
+Registration, Login.
+LOGIN:
+Registered members can login and finally go to the blog page.
+REGISTER:
+In this user registers. User can only access the blog after registering or logging in.
+BLOG PAGE(INDEX.HTML):
+● Adding Blog: Registered user can enter the blog (title, name, story). No column can be left
+empty.
+● Displaying Blog: All the blogs stored in database will be displayed here.
+● Display using searched name: User can search the desired blog by entering the name of the
+author.
 
 # Screenshots
 
